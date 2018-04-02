@@ -1,0 +1,9 @@
+[package]
+name = "binomial"
+version = "0.1.0"
+authors = ["Thomas Bächler <thomas@archlinux.org>"]
+
+[features]
+i128 = []
+
+[dependencies]
